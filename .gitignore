@@ -1,0 +1,11 @@
+# Ignore the following folders and files
+DerivedDataCache/
+Saved/
+Intermediate/
+.vs/
+.idea/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.log
